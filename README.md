@@ -1,4 +1,4 @@
-## Opa!! Eu sou o Kauã Eduardo 
+## Opa!! Me chamo Kauã Eduardo 
 
 - 👨‍💻 Trabalho com Desenvolvimento web
 - 👨‍🏫 Estudando C/C++
