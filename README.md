@@ -1,6 +1,5 @@
 ## Opa!! Me chamo Kauã Eduardo 
 
-- 👨‍💻 Trabalho com Desenvolvimento web
 - 👨‍🏫 Estudando C/C++
 - 📫 Contate-me no email: kauaandrade079@gmail.com
 
