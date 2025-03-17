@@ -1,7 +1,7 @@
 ## Opa!! Eu sou o Kauã Eduardo 
 
-- 🔭 Trabalho com Desenvolvimento web
-- 🌱 Estudando C/C++
+- 👨‍💻 Trabalho com Desenvolvimento web
+- 👨‍🏫 Estudando C/C++
 - 📫 Contate-me no email: kauaandrade079@gmail.com
 
 <!-- GitHub Stats -->
