@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauaeduuardo&show_icons=true&theme=merko&count_private=true" alt="Top Languages">
 </div>
 
-## Principais tecnologias
+## Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
   <img align="center" alt="Kaua-C" height="35" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="Kaua-Cpp" height="35" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">     
