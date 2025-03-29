@@ -8,6 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauaeduuardo&show_icons=true&theme=merko&count_private=true" alt="Top Languages">
 </div>
 
+## Principais tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Kaua-C" height="35" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="Kaua-Cpp" height="35" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">     
@@ -16,7 +17,7 @@
   <img align="center" alt="Kaua-css" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">         
 </div>
 
-##
+## Contatos
 <div>
   <a href="https://instagram.com/kauaeduardo__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:kauaandrade079@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
