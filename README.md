@@ -1,6 +1,6 @@
 ## Opa!! Me chamo Kauã Eduardo 
 
-- 👨‍🏫 Estudando C/C++
+- 👨‍🏫 Estudando Java
 - 📫 Contate-me no email: kauaandrade079@gmail.com
 
 <div>
