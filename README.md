@@ -10,8 +10,8 @@
 
 ## Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
+  <img align="center" alt="Kaua-Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Kaua-Cpp" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">    
-  <img align="center" alt="Kaua-Cpp" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Kaua-git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img align="center" alt="Kaua-html" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="Kaua-css" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">         
