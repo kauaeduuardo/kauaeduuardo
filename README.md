@@ -19,8 +19,7 @@ public class Kaua {
 ## 🚀 Áreas de Interesse
 
 - ☕ Desenvolvimento em Java
-- 🤖 Automação e Inteligência Artificial
-- 🔧 Infraestrutura de Redes
+- 🔐 Cibersegurança
 
 ## 📫 Como me encontrar
 
