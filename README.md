@@ -11,7 +11,7 @@ Bem-vindo ao meu perfil!
 
 ```java
 public class Kaua {
-    String[] estudando = {"Java", "Automação com IA"};
+    String[] estudando = {"Java", "Cybersecurity"};
     String objetivo = "Criar soluções inovadoras";
 }
 ```
